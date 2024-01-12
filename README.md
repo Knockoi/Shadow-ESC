@@ -42,8 +42,8 @@
 - 可調節保護：
 ### 以上資料從VESC 的商品介紹上COPY
 
-  基本設計可以參考VESC的使用方法。
-  設計藍圖來自於vedderb的完美專題
+  基本使用可以參考VESC的使用方法。  
+  設計藍圖來自於vedderb的完美專題  
      - [VESC 無刷馬達驅動器](https://github.com/vedderb/bldc)
 
 
