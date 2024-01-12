@@ -40,10 +40,11 @@
 - 即時資料分析並透過通訊埠讀出
 - 即時資料分析並透過 VESC-Tool APP 或 VESC-Tool 軟體讀取
 - 可調節保護：
-    以上資料從VESC 的商品介紹上COPY
-基本設計可以參考VESC的使用方法。
-設計藍圖來自於vedderb的完美專題
- - [VESC 無刷馬達驅動器]([https://awesomeopensource.com/project/elangosundar/awesome-README-templates](https://github.com/vedderb/bldc))
+### 以上資料從VESC 的商品介紹上COPY
+
+  基本設計可以參考VESC的使用方法。
+  設計藍圖來自於vedderb的完美專題
+   - [VESC 無刷馬達驅動器]([https://awesomeopensource.com/project/elangosundar/awesome-README-templates](https://github.com/vedderb/bldc))
 
 
 
