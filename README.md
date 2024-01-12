@@ -44,6 +44,6 @@ Programmable RPM, current, voltage and power limits
 
   For basic usage, please refer to VESC's instructions.  
   The design blueprint is from vedderb's Perfection topic.  
-     - VESC Brushless Motor Drive](https://github.com/vedderb/bldc)
+     - [VESC Brushless Motor Drive](https://github.com/vedderb/bldc)
 
 
