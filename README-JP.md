@@ -4,7 +4,7 @@
   
 ## 概要  
 ShadowDriveは通常の電動スケートボードコントローラに比べ、小型で統合性が高い。 クレジットカードサイズでありながら、制御能力は抜かりなく、60V 170A Peak 300Aモーターを制御できる。
-  ! [イメージ](https://github.com/Knockoi/Shadow-ESC/blob/main/Image/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202023-12-25%20011755.png)
+  ![イメージ](https://github.com/Knockoi/Shadow-ESC/blob/main/Image/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202023-12-25%20011755.png)
   
 ## ハードウェア  
 - STM32F405RGT6を2個使ったMCU
