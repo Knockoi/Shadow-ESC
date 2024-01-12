@@ -1,6 +1,6 @@
 ## シャドードライブ 
 ## 言語選択
-[英語](https://github.com/Knockoi/Shadow-ESC/blob/main/README.md) | [日本語](https://github.com/Knockoi/Shadow-ESC/edit/main/README-JP.md) |  [繁体漢字中国語](https://github.com/Knockoi/Shadow-ESC/blob/main/README-TC.md) 
+[英語](https://github.com/Knockoi/Shadow-ESC/blob/main/README.md) | [日本語](https://github.com/Knockoi/Shadow-ESC/main/README-JP.md) |  [繁体漢字中国語](https://github.com/Knockoi/Shadow-ESC/blob/main/README-TC.md) 
   
 ## 概要  
 ShadowDriveは通常の電動スケートボードコントローラに比べ、小型で統合性が高い。 クレジットカードサイズでありながら、制御能力は抜かりなく、60V 170A Peak 300Aモーターを制御できる。
