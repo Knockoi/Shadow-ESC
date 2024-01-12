@@ -4,7 +4,7 @@
   
 ## 概述  
 相較於一般的電動滑板控制器ShadowDrive有著更小的體積與超高的集成度，雖然面積只有信用卡大小，但控制能力絕不馬虎，可以控制60V 170A Peak 300A的電機。
-  ![image]()
+  ![image](https://github.com/Knockoi/Shadow-ESC/blob/main/Image/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202023-12-25%20011755.png)
   
 ## 硬體  
 - MCU使用兩個STM32F405RGT6
