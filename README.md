@@ -1,6 +1,6 @@
 ## ShadowDrive 
 ## Language selection:
-[English](https://github.com/Knockoi/E-Stick/blob/main/README.md) | [日本語](https://github.com/Knockoi/E-Stick/blob/main/ReadmeCN.md) | [Traditional Chinese](https://github.com/Knockoi/E-Stick/blob/main/ReadmeTC.md)
+[English](https://github.com/Knockoi/E-Stick/blob/main/README.md) | [日本語](https://github.com/Knockoi/Shadow-ESC/edit/main/README-JP.md) | [Traditional Chinese](https://github.com/Knockoi/E-Stick/blob/main/ReadmeTC.md)
   
 ## Overview  
 ShadowDrive has a smaller size and higher integration compared to normal electric skateboard controllers. Although it is only the size of a credit card, the control capability is not sloppy and it can control 60V 170A Peak 300A motors.
