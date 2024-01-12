@@ -1,6 +1,6 @@
 # ShadowDrive 
 ## 語言選擇：
-[English](https://github.com/Knockoi/E-Stick/blob/main/README.md) | [简体中文](https://github.com/Knockoi/E-Stick/blob/main/ReadmeCN.md) | [繁體中文](https://github.com/Knockoi/E-Stick/blob/main/ReadmeTC.md)
+[English](https://github.com/Knockoi/E-Stick/blob/main/README.md) | [日本語](https://github.com/Knockoi/E-Stick/blob/main/ReadmeCN.md) | [繁體中文](https://github.com/Knockoi/E-Stick/blob/main/ReadmeTC.md)
   
 ## 概述  
 相較於一般的電動滑板控制器ShadowDrive有著更小的體積與超高的集成度，雖然面積只有信用卡大小，但控制能力絕不馬虎，可以控制60V 170A Peak 300A的電機。
