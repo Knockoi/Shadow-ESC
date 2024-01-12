@@ -42,8 +42,8 @@ ShadowDriveは通常の電動スケートボードコントローラに比べ、
 - 調整可能な保護機能
 ### 上記の情報はVESCのカタログから抜粋したものです。
 
-  基本的な使い方はVESCのユーザーガイドをご参照ください。 
-  設計図はvedderb氏のPerfectionトピックより引用。 
+  基本的な使い方はVESCのユーザーガイドをご参照ください。   
+  設計図はvedderb氏のPerfectionトピックより引用。   
      -  [VESCブラシレスモータドライブ](https://github.com/vedderb/bldc)
 
 
