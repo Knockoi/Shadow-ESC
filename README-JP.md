@@ -1,4 +1,4 @@
-## シャドードライブ 
+## 影-ESC シャドードライブ 
 ## 言語選択
 [英語](https://github.com/Knockoi/Shadow-ESC/blob/main/README.md) | [日本語](https://github.com/Knockoi/Shadow-ESC/blob/main/README-JP.md) |  [繁体漢字中国語](https://github.com/Knockoi/Shadow-ESC/blob/main/README-TC.md) 
   
