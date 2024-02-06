@@ -1,7 +1,8 @@
 ## 影-ESC シャドードライブ 
 ## 言語選択
-[英語](https://github.com/Knockoi/Shadow-ESC/blob/main/README.md) | [日本語](https://github.com/Knockoi/Shadow-ESC/blob/main/README-JP.md) |  [繁体漢字中国語](https://github.com/Knockoi/Shadow-ESC/blob/main/README-TC.md) 
-  
+[英語](https://github.com/Knockoi/Shadow-ESC/blob/main/README.md) | [日本語](https://github.com/Knockoi/Shadow-ESC/blob/main/README-JP.md) |  [繁体漢字中国語](https://github.com/Knockoi/Shadow-ESC/blob/main/README-TC.md)   
+## 謝辞  
+JLCPCBのご支援とご協賛がなければ、このプロジェクトを成功させることはできなかったと思います。 JLCPCBはプロジェクトに必要なプリント基板を提供してくれただけでなく、そのプリント基板の品質も非常に良く、私のプロジェクトの要件を十分に満たしてくれました。 改めて、JLCPCBのサポートに心から感謝いたします。JLCPCBのサポートは、このプロジェクトに励み、より価値のある作品を作り続ける私にとって、大きな意味を持ちます。 JLCPCBのおかげで、私の創作の旅はよりスムーズになりました。     
 ## 概要  
 ShadowDriveは通常の電動スケートボードコントローラに比べ、小型で統合性が高い。 クレジットカードサイズでありながら、制御能力は抜かりなく、60V 170A Peak 300Aモーターを制御できる。
   ![イメージ](https://github.com/Knockoi/Shadow-ESC/blob/main/Image/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202023-12-25%20011755.png)
