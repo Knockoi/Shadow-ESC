@@ -1,7 +1,8 @@
 ## ShadowDrive 
 ## Language selection:
-[English](https://github.com/Knockoi/Shadow-ESC/blob/main/README.md) | [日本語](https://github.com/Knockoi/Shadow-ESC/blob/main/README-JP.md) | [Traditional Chinese](https://github.com/Knockoi/Shadow-ESC/blob/main/README-TC.md)
-  
+[English](https://github.com/Knockoi/Shadow-ESC/blob/main/README.md) | [日本語](https://github.com/Knockoi/Shadow-ESC/blob/main/README-JP.md) | [Traditional Chinese](https://github.com/Knockoi/Shadow-ESC/blob/main/README-TC.md)  
+## Acknowledgments  
+I would like to express my sincere thanks to JLCPCB for their support and sponsorship of this project, without which I would not have been able to complete this project. Without the help of JLCPCB, I would not have been able to complete this project successfully, not only did JLCPCB provide me with the printed circuit boards for my project, but the quality of their PCBs was very good, which fully met the requirements of my project. Once again, I would like to express my sincere thanks to JLCPCB for their support, which means a lot to me as I continue to work hard on this project and create more valuable works. Thanks to JLCPCB, my path of creation has become smoother.      
 ## Overview  
 ShadowDrive has a smaller size and higher integration compared to normal electric skateboard controllers. Although it is only the size of a credit card, the control capability is not sloppy and it can control 60V 170A Peak 300A motors.
   ![image](https://github.com/Knockoi/Shadow-ESC/blob/main/Image/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202023-12-25%20011755.png)
