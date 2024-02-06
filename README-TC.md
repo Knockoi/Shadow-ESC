@@ -1,9 +1,10 @@
 # ShadowDrive 
 ## 語言選擇：
 [English](https://github.com/Knockoi/Shadow-ESC/blob/main/README.md) | [日本語](https://github.com/Knockoi/Shadow-ESC/blob/main/README-JP.md) | [繁體中文](https://github.com/Knockoi/Shadow-ESC/blob/main/README-TC.md)
-  
+## 致謝  
+我要在此衷心感謝JLCPCB對本專題的大力支持與贊助。沒有JLCPCB的幫助,我無法順利完成這項專題。JLCPCB不僅提供了專案所需的印製電路板,他們家的PCB品質還非常優良,完全符合我專案的要求。在此,我再次表達我的誠摯謝意。JLCPCB對本專題發展的推動,將激勵我繼續努力,創造出更多有價值的作品。JLCPCB所給予的支持,對我而言意義非凡。衷心感謝JLCPCB,使我的創作之路變得更加順遂。    
 ## 概述  
-相較於一般的電動滑板控制器ShadowDrive有著更小的體積與超高的集成度，雖然面積只有信用卡大小，但控制能力絕不馬虎，可以控制60V 170A Peak 300A的電機。
+相較於一般的電動滑板控制器ShadowDrive有著更小的體積與超高的集成度，雖然面積只有信用卡大小，但控制能力絕不馬虎，可以控制60V 170A Peak 300A的電機(單路)。
   ![image](https://github.com/Knockoi/Shadow-ESC/blob/main/Image/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202023-12-25%20011755.png)
   
 ## 硬體  
