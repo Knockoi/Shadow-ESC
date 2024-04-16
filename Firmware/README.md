@@ -13,6 +13,11 @@ An open source motor controller firmware.
 This is the source code for the VESC DC/BLDC/FOC controller. Read more at
 [https://vesc-project.com/](https://vesc-project.com/)
 
+
+## The Firmware  
+
+# Use ST-Link to burn VESC V6.0 .bin file to Shadow-ESC.
+
 ## Supported boards
 
 All of them!
