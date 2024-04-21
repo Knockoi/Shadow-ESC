@@ -6,8 +6,7 @@
 JLCPCB 是一家領先的 PCB 製造商，以其卓越的品質、快速的周轉時間和經濟實惠而聞名。該公司對精度的承諾和對行業標準的遵守確保了高品質的印刷電路板。 JLCPCB 憑藉用戶友好的平台、透明的定價和包括組裝選項在內的全面服務，迎合了全球客戶的需求。其高效的流程和快速的製造使其成為工期緊迫的專案的理想選擇。總體而言，JLCPCB 是一種可靠且經濟高效的解決方案，可滿足廣泛的工程和創新需求。  
 ## 概述  
 相較於一般的電動滑板控制器ShadowDrive有著更小的體積與超高的集成度，雖然面積只有信用卡大小，但控制能力絕不馬虎，可以控制60V 170A Peak 300A的電機(單路)。
-  ![image](https://github.com/Knockoi/Shadow-ESC/blob/main/Image/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202023-12-25%20011755.png)
-  
+![image](https://github.com/Knockoi/Shadow-ESC/blob/main/Image/V5-5.png) 
 ## 硬體  
 - MCU使用兩個STM32F405RGT6
 - 可以選擇配置是否有MPU，陀螺儀使用MPU6500數據線就兩根SDA和SCK。
