@@ -12,7 +12,7 @@ I would like to express my sincere thanks to JLCPCB for their support and sponso
 JLCPCB is a leading PCB manufacturer known for its superior quality, fast turnaround time and affordability. The company's commitment to precision and adherence to industry standards ensures high quality PCBs. JLCPCB caters to global customers with its user-friendly platform, transparent pricing and comprehensive services including assembly options. Its efficient processes and fast manufacturing make it an ideal choice for projects with tight deadlines. Overall, JLCPCB is a reliable and cost-effective solution for a wide range of engineering and innovation needs.  
 ## Overview  
 ShadowDrive has a smaller size and higher integration compared to normal electric skateboard controllers. Although it is only the size of a credit card, the control capability is not sloppy and it can control 60V 170A Peak 300A motors.
-  ![image](https://github.com/Knockoi/Shadow-ESC/blob/main/Image/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202023-12-25%20011755.png)
+  ![image](https://github.com/Knockoi/Shadow-ESC/blob/main/Image/V5-5.png)
   
 ## Hardware  
 - MCU using two STM32F405RGT6
