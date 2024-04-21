@@ -1,9 +1,9 @@
-## ShadowDrive 
+# ShadowDrive 
 
 ## Current Progress (Update) 
  ![image](https://github.com/Knockoi/Shadow-ESC/blob/main/Image/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202023-12-25%20011755.png)
   
-# Progress only shows English version 
+### Progress only shows English version 
 
 ## Language selection:
 [English](https://github.com/Knockoi/Shadow-ESC/blob/main/README.md) | [日本語](https://github.com/Knockoi/Shadow-ESC/blob/main/README-JP.md) | [Traditional Chinese](https://github.com/Knockoi/Shadow-ESC/blob/main/README-TC.md)  
