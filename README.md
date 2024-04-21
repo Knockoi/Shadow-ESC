@@ -1,7 +1,9 @@
 # ShadowDrive 
 
 ## Current Progress (Update) 
- ![image](https://github.com/Knockoi/Shadow-ESC/blob/main/Image/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202023-12-25%20011755.png)
+ ![image](https://github.com/Knockoi/Shadow-ESC/blob/main/Image/V5-System.png) 
+#### 4/21 The system board is complete! 
+#### 4/21 Driver boards are not yet equipped with electronics. 
   
 ### Progress only shows English version 
 
