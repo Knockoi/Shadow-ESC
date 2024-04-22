@@ -15,12 +15,12 @@ I would like to express my sincere thanks to JLCPCB for their support and sponso
 JLCPCB is a leading PCB manufacturer known for its superior quality, fast turnaround time and affordability. The company's commitment to precision and adherence to industry standards ensures high quality PCBs. JLCPCB caters to global customers with its user-friendly platform, transparent pricing and comprehensive services including assembly options. Its efficient processes and fast manufacturing make it an ideal choice for projects with tight deadlines. Overall, JLCPCB is a reliable and cost-effective solution for a wide range of engineering and innovation needs.  
 ## Overview  
 ShadowDrive has a smaller size and higher integration compared to normal electric skateboard controllers. Although it is only the size of a credit card, the control capability is not sloppy and it can control 60V 170A Peak 300A motors.  
-<img src="https://github.com/Knockoi/Shadow-ESC/blob/main/Image/V5-Size.png" width="480px"><img src="https://github.com/Knockoi/Shadow-ESC/blob/main/Image/V5-Case2.png" width="400px">   
+<img src="https://github.com/Knockoi/Shadow-ESC/blob/main/Image/V5-Size.png" width="480px"><img src="https://github.com/Knockoi/Shadow-ESC/blob/main/Image/V5-Case2.png" width="380px">   
 
 
  
 ## Hardware  
- <img src="https://github.com/Knockoi/Shadow-ESC/blob/main/Image/V5-5.png" width="400px"><img src="https://github.com/Knockoi/Shadow-ESC/blob/main/Image/V5-4.png" width="340px">  
+ <img src="https://github.com/Knockoi/Shadow-ESC/blob/main/Image/V5-5.png" width="400px"><img src="https://github.com/Knockoi/Shadow-ESC/blob/main/Image/V5-4.png" width="360px">  
 
 - MCU using two STM32F405RGT6
 - Can choose to configure whether the MPU, gyroscope using MPU6500 data lines on two SDA and SCK.
