@@ -1,4 +1,5 @@
 # ShadowDrive 
+## Small in size, but uncompromising in performance.  
 
 ## Current Progress (Update) 
 <img src="https://github.com/Knockoi/Shadow-ESC/blob/main/Image/V5-System.png" width="300px"><img src="https://github.com/Knockoi/Shadow-ESC/blob/main/Image/V5-Driver.png" width="300px"> 
