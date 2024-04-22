@@ -18,7 +18,7 @@ ShadowDrive has a smaller size and higher integration compared to normal electri
 
  
 ## Hardware  
- <img src=" https://github.com/Knockoi/Shadow-ESC/blob/main/Image/V5-5.png" width="500px">  
+ <img src=" https://github.com/Knockoi/Shadow-ESC/blob/main/Image/V5-5.png" width="700px">  
 - MCU using two STM32F405RGT6
 - Can choose to configure whether the MPU, gyroscope using MPU6500 data lines on two SDA and SCK.
 - Grid controller using DRV8301~8303 option.
